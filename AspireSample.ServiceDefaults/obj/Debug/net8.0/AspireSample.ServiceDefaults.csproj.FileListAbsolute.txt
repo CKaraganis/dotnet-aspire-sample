@@ -1,0 +1,12 @@
+C:\Users\chris\src\Personal\AspireSample\AspireSample.ServiceDefaults\bin\Debug\net8.0\AspireSample.ServiceDefaults.deps.json
+C:\Users\chris\src\Personal\AspireSample\AspireSample.ServiceDefaults\bin\Debug\net8.0\AspireSample.ServiceDefaults.dll
+C:\Users\chris\src\Personal\AspireSample\AspireSample.ServiceDefaults\bin\Debug\net8.0\AspireSample.ServiceDefaults.pdb
+C:\Users\chris\src\Personal\AspireSample\AspireSample.ServiceDefaults\obj\Debug\net8.0\AspireSample.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\chris\src\Personal\AspireSample\AspireSample.ServiceDefaults\obj\Debug\net8.0\AspireSample.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\src\Personal\AspireSample\AspireSample.ServiceDefaults\obj\Debug\net8.0\AspireSample.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\chris\src\Personal\AspireSample\AspireSample.ServiceDefaults\obj\Debug\net8.0\AspireSample.ServiceDefaults.AssemblyInfo.cs
+C:\Users\chris\src\Personal\AspireSample\AspireSample.ServiceDefaults\obj\Debug\net8.0\AspireSample.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\chris\src\Personal\AspireSample\AspireSample.ServiceDefaults\obj\Debug\net8.0\AspireSample.ServiceDefaults.dll
+C:\Users\chris\src\Personal\AspireSample\AspireSample.ServiceDefaults\obj\Debug\net8.0\refint\AspireSample.ServiceDefaults.dll
+C:\Users\chris\src\Personal\AspireSample\AspireSample.ServiceDefaults\obj\Debug\net8.0\AspireSample.ServiceDefaults.pdb
+C:\Users\chris\src\Personal\AspireSample\AspireSample.ServiceDefaults\obj\Debug\net8.0\ref\AspireSample.ServiceDefaults.dll
